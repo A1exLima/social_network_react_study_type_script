@@ -8,8 +8,8 @@ export const Container = styled.header`
   justify-content: center;
   gap: 1.6rem;
 
-  > h1 {
-    font-size: 2.56rem;
+  > p {
+    font-size: 2.2rem;
     font-weight: 700;
     line-height: 160%;
     font-family: var(--font-roboto);

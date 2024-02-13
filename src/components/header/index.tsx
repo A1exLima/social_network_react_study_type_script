@@ -5,6 +5,7 @@ export function Header() {
 
   return(
     <Container>
+      <p>Social Network</p>
       <img src={ignite} alt="logotipo do Ignite" />
     </Container>
   )

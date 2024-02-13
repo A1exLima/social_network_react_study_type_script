@@ -34,7 +34,7 @@ export function CommentComponent({comment, onDeleteComment}: CommentComponentPro
             <div className="comment-author">
 
               <div>
-                <strong>Devon Lane </strong>
+                <strong>Alex Lima </strong>
                 <span>{`(Você)`}</span>
               </div>
 
@@ -42,7 +42,7 @@ export function CommentComponent({comment, onDeleteComment}: CommentComponentPro
                 title="09 de fevereiro de 2024"
                 dateTime="2024-02-09 às 09:23:34"
               >
-                Cerca de 2h
+                Cerca de 1h
               </time>
             </div>
 
